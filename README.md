@@ -6,7 +6,7 @@ VinylAddict is a user-friendly platform designed for record and music enthusiast
 
 ## Deployment Link
 
-<a href="https://vinyl-addict-online-45b6491a309c.herokuapp.com/"> VinylAddict Deployment Link</a>
+Clone the repository to your local machine and follow installation guide.
 
 ## Features
 - **User Authentication**: Secure signup and login system.
@@ -51,8 +51,9 @@ VinylAddict is a user-friendly platform designed for record and music enthusiast
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in your terminal.
 3. Run `npm install` to install all the required dependencies.
-4. Run the see using ```npm run seed```
-5. Run the server using ```npm run develop```.
+4. Run the seeds using (server terminal) ```npm run seed```
+5. Run the server using (server terminal)```npm start```
+6. Run the project using (client terminal) ```npm run develop```.
 
 
 ## Future Enhancements
